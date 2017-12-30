@@ -1,0 +1,1 @@
+This program shows value of potentiometr, symbols that you enter in console on your pc and time from beginning program. This all shows on OLED display that uses SPI interface. Also in this project was used RTOS for working all parts correctly.
