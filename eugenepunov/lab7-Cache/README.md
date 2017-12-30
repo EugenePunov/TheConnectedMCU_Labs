@@ -1,0 +1,1 @@
+Lab that shows how cache can boost our projects. All data shows at OLED display.
