@@ -1,0 +1,85 @@
+\begin{theindex}
+
+  \item {B\+T\+N1\+\_\+\+P\+O\+R\+T\+\_\+\+B\+IT}
+    \subitem {user.\+h}, \hyperpage{9}
+  \item {B\+T\+N2\+\_\+\+P\+O\+R\+T\+\_\+\+B\+IT}
+    \subitem {user.\+h}, \hyperpage{9}
+
+  \indexspace
+
+  \item {configuration\+\_\+bits.\+c}, \hyperpage{3}
+
+  \indexspace
+
+  \item {init\+\_\+app}
+    \subitem {user.\+c}, \hyperpage{8}
+    \subitem {user.\+h}, \hyperpage{10}
+  \item {init\+\_\+gpio}
+    \subitem {user.\+c}, \hyperpage{8}
+
+  \indexspace
+
+  \item {L\+D1\+\_\+\+P\+O\+R\+T\+\_\+\+B\+IT}
+    \subitem {user.\+h}, \hyperpage{10}
+  \item {L\+D2\+\_\+\+P\+O\+R\+T\+\_\+\+B\+IT}
+    \subitem {user.\+h}, \hyperpage{10}
+  \item {L\+D3\+\_\+\+P\+O\+R\+T\+\_\+\+B\+IT}
+    \subitem {user.\+h}, \hyperpage{10}
+  \item {L\+D4\+\_\+\+P\+O\+R\+T\+\_\+\+B\+IT}
+    \subitem {user.\+h}, \hyperpage{10}
+
+  \indexspace
+
+  \item {main}
+    \subitem {main.\+c}, \hyperpage{3}
+  \item {main.\+c}, \hyperpage{3}
+    \subitem {main}, \hyperpage{3}
+
+  \indexspace
+
+  \item {turn\+\_\+on\+\_\+off\+\_\+leds}
+    \subitem {user.\+c}, \hyperpage{9}
+
+  \indexspace
+
+  \item {U\+A\+R\+T.\+c}, \hyperpage{3}
+    \subitem {uart4\+\_\+getc}, \hyperpage{4}
+    \subitem {uart4\+\_\+init}, \hyperpage{4}
+    \subitem {uart4\+\_\+putc}, \hyperpage{4}
+    \subitem {uart4\+\_\+puts}, \hyperpage{5}
+    \subitem {uart4\+\_\+test}, \hyperpage{5}
+  \item {U\+A\+R\+T.\+h}, \hyperpage{6}
+    \subitem {uart4\+\_\+getc}, \hyperpage{6}
+    \subitem {uart4\+\_\+init}, \hyperpage{6}
+    \subitem {uart4\+\_\+putc}, \hyperpage{6}
+    \subitem {uart4\+\_\+puts}, \hyperpage{7}
+    \subitem {uart4\+\_\+test}, \hyperpage{7}
+  \item {uart4\+\_\+getc}
+    \subitem {U\+A\+R\+T.\+c}, \hyperpage{4}
+    \subitem {U\+A\+R\+T.\+h}, \hyperpage{6}
+  \item {uart4\+\_\+init}
+    \subitem {U\+A\+R\+T.\+c}, \hyperpage{4}
+    \subitem {U\+A\+R\+T.\+h}, \hyperpage{6}
+  \item {uart4\+\_\+putc}
+    \subitem {U\+A\+R\+T.\+c}, \hyperpage{4}
+    \subitem {U\+A\+R\+T.\+h}, \hyperpage{6}
+  \item {uart4\+\_\+puts}
+    \subitem {U\+A\+R\+T.\+c}, \hyperpage{5}
+    \subitem {U\+A\+R\+T.\+h}, \hyperpage{7}
+  \item {uart4\+\_\+test}
+    \subitem {U\+A\+R\+T.\+c}, \hyperpage{5}
+    \subitem {U\+A\+R\+T.\+h}, \hyperpage{7}
+  \item {user.\+c}, \hyperpage{8}
+    \subitem {init\+\_\+app}, \hyperpage{8}
+    \subitem {init\+\_\+gpio}, \hyperpage{8}
+    \subitem {turn\+\_\+on\+\_\+off\+\_\+leds}, \hyperpage{9}
+  \item {user.\+h}, \hyperpage{9}
+    \subitem {B\+T\+N1\+\_\+\+P\+O\+R\+T\+\_\+\+B\+IT}, \hyperpage{9}
+    \subitem {B\+T\+N2\+\_\+\+P\+O\+R\+T\+\_\+\+B\+IT}, \hyperpage{9}
+    \subitem {init\+\_\+app}, \hyperpage{10}
+    \subitem {L\+D1\+\_\+\+P\+O\+R\+T\+\_\+\+B\+IT}, \hyperpage{10}
+    \subitem {L\+D2\+\_\+\+P\+O\+R\+T\+\_\+\+B\+IT}, \hyperpage{10}
+    \subitem {L\+D3\+\_\+\+P\+O\+R\+T\+\_\+\+B\+IT}, \hyperpage{10}
+    \subitem {L\+D4\+\_\+\+P\+O\+R\+T\+\_\+\+B\+IT}, \hyperpage{10}
+
+\end{theindex}

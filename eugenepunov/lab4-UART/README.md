@@ -1,0 +1,1 @@
+Control LEDs from keyboard using UART. 1,2,3,4 - choose LED, 1,2 - led on, led off.
